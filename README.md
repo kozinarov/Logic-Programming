@@ -1,1 +1,1 @@
-# Logic-Programming
+# Logic-Programming Prolog
